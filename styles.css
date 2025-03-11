@@ -1,4 +1,7 @@
 body{ 
     text-align: center;
-    background-color: aqua;
+    background-color: #3C0008;
+    font-family: minecraft;
+    src: url(minecraft-font);
+    color: blue;
 }
